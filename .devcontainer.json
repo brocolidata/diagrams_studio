@@ -1,0 +1,11 @@
+{
+    "name": "Diagrams Studio",
+    "image":"ubuntu",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "hediet.vscode-drawio"
+            ]
+        }
+    }
+}
